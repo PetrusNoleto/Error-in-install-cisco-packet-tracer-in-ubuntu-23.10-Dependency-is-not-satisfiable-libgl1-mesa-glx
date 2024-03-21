@@ -18,6 +18,11 @@
 ### Step 1 Download dependecies archives
   click [here](https://github.com/PetrusNoleto/Error-in-install-cisco-packet-tracer-in-ubuntu-23.10-Dependency-is-not-satisfiable-libgl1-mesa-glx/releases/tag/Dependency-is-not-satisfiable-libgl1-mesa-glx) for download dependecies
 
+  or
+  
+  ```
+    https://packages.debian.org/bullseye/amd64/libgl1-mesa-glx/download
+  ```
 
 ### Step 2 install gdebi
 
